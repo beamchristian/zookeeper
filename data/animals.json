@@ -144,6 +144,24 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
     }
   ]
 }
